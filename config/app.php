@@ -162,7 +162,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
-		Laraveldaily\Timezones\TimezonesServiceProvider::class,
+		Wisdominfosoft\Timezones\TimezonesServiceProvider::class,
         /*
          * Package Service Providers...
          */

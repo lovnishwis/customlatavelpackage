@@ -1,6 +1,6 @@
 <?php
 
-namespace Laraveldaily\Timezones;
+namespace Wisdominfosoft\Timezones;
  
 use App\Http\Controllers\Controller;
 use Carbon\Carbon;
